@@ -8,11 +8,11 @@ The YOLOv8 model was fine-tuned on a large-scale medical dataset for breast canc
 
 The YOLOv8 model architecture used in this project is shown in the following figure
 
-`![YOLOv8 Architecture](docs/yolo_class.png)`
+![YOLOv8 Architecture](docs/yolo_class.jpg)
 
 ## Demo Video
 
 For a visual demonstration of the model's inference and Grad-CAM visualizations, please refer to the following video:
 
 
-`[![Demo Video]](docs/inference.mp4)`
+[![Demo Video]](docs/inference.mp4)
