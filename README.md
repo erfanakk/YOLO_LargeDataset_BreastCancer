@@ -15,4 +15,6 @@ The YOLOv8 model architecture used in this project is shown in the following fig
 For a visual demonstration of the model's inference and Grad-CAM visualizations, please refer to the following video:
 
 
+[![Watch the video](https://img.youtube.com/vi/UeNY6Kq0gVs/maxresdefault.jpg)](https://www.youtube.com/watch?v=UeNY6Kq0gVs)
+
 [Demo Video](docs/inference.mp4)
